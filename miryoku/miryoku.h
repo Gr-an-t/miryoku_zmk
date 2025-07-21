@@ -25,6 +25,10 @@
 
 #define U_TAPPING_TERM 280
 
+#detine U_IDLE_TERM 150
+
+#define U_QUICK_TERM 175
+
 #include "miryoku_clipboard.h"
 
 #include "miryoku_double_tap_guard.h"
