@@ -8,6 +8,7 @@
       #binding-cells = <2>;
       tapping-term-ms = <U_TAPPING_TERM>;
       require-prior-idle-ms = <U_IDLE_TERM>;
+      quick-tap-ms = <U_QUICK_TERM>;
       flavor = "balanced";
       bindings = <&kp>, <&kp>;
     };
@@ -16,6 +17,7 @@
       #binding-cells = <2>;
       tapping-term-ms = <U_TAPPING_TERM>;
       require-prior-idle-ms = <U_IDLE_TERM>;
+      quick-tap-ms = <U_QUICK_TERM>;
       flavor = "balanced";
       bindings = <&mo>, <&kp>;
     };
